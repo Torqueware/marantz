@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"code.google.com/p/gogoprotobuf/proto"
+	"github.com/gogo/protobuf/proto"
 	"github.com/joshuarubin/marantz/msg"
 )
 
